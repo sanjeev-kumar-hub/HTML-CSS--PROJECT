@@ -140,15 +140,15 @@ section.title .titledes p {
   /* padding: 1rem 0rem; */
 }
 section.title .titlePic {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
   /* padding: 5px; */
-  width: 50%;
+  width: 20%;
   align-items: right;
   text-align: right;
   
 }
 section.title .titlePic img {
-  border-radius: 50%;
+  border-radius: 80%;
   border: 10px solid #00abae;
   width: 60%;
   margin-left: 100px;
@@ -166,6 +166,7 @@ section.title .titlePic img {
     padding-left: 1%;
     padding-bottom: 1%;
     line-height: 1%;
+    letter-spacing: 2px;
   
   }
   
@@ -181,7 +182,7 @@ section.title .titlePic img {
   
   main #about .aboutitem {
     color: #575757;
-    flex-direction: row;
+    flex-direction: ;
     column-gap: 5%;
     
   }
